@@ -1,0 +1,2 @@
+commons-io,FRCH,ATAF,CountInput,CountLine,CountLineCodeDecl,CountLineCode,CountOutput,SumCyclomatic,CountLineComment,line,BOM,CountStmtDecl,CountSemicolon,CountLineCodeExe,uniqueWordsQty,variablesQty,CountStmt,CountStmtExe,cbo,stringLiteralsQty
+commons-io,FRCH,ATAF,CountInput,CountLine,CountLineCodeDecl,CountLineCode,CountOutput,SumCyclomatic,CountLineComment,CountStmtDecl,line,BOM,CountSemicolon,uniqueWordsQty,CountLineCodeExe,CountStmt,CountStmtExe,variablesQty,stringLiteralsQty,cbo

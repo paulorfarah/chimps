@@ -1,0 +1,2 @@
+easymock,BOM,CountInput,CountOutput,ATAF,FRCH,CountLine,line,CountLineCode,CountLineCodeExe,uniqueWordsQty,cbo,stringLiteralsQty,CountSemicolon,CountStmt,CountStmtExe,cboModified,rfc,numbersQty,fanout,methodsInvokedQty
+easymock,BOM,CountInput,CountOutput,ATAF,FRCH,CountLine,line,CountLineCode,CountLineCodeExe,uniqueWordsQty,cbo,stringLiteralsQty,CountStmt,CountStmtExe,CountSemicolon,methodsInvokedQty,cboModified,rfc,numbersQty,fanout

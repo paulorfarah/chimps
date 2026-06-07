@@ -1,0 +1,2 @@
+Openfire,CountInput,CountOutput,BOM,CountLine,CountLineCode,line,ATAF,SumCyclomatic,CountLineCodeExe,FRCH,CountStmtExe,CountStmt,CountLineComment,CountSemicolon,CountLineCodeDecl,uniqueWordsQty,loc,rfc,methodsInvokedQty,cbo
+Openfire,CountInput,CountOutput,BOM,CountLine,line,CountLineCode,SumCyclomatic,ATAF,CountLineCodeExe,FRCH,CountStmt,CountStmtExe,CountSemicolon,CountLineComment,CountLineCodeDecl,uniqueWordsQty,loc,rfc,methodsInvokedQty,cbo

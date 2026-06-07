@@ -1,0 +1,2 @@
+commons-bcel,FRCH,ATAF,line,BOM,uniqueWordsQty,CountInput,CountLine,SumCyclomatic,CountLineCode,cbo,modifiers,numbersQty,CountLineCodeDecl,CountOutput,CountLineComment,cboModified,CountLineCodeExe,fanin,methodsInvokedQty,rfc
+commons-bcel,FRCH,ATAF,line,BOM,uniqueWordsQty,CountInput,CountLine,CountLineCode,SumCyclomatic,modifiers,cbo,numbersQty,CountOutput,CountLineCodeDecl,CountLineComment,cboModified,CountLineCodeExe,fanin,methodsInvokedQty,rfc

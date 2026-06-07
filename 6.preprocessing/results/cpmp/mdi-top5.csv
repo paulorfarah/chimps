@@ -1,0 +1,11 @@
+metrics,count,percent
+CountLineCodeDecl,1,2.9
+CountLineCode,1,2.9
+uniqueWordsQty,2,5.7
+line,3,8.6
+CountLine,3,8.6
+BOM,3,8.6
+CountOutput,4,11.4
+FRCH,6,17.1
+CountInput,6,17.1
+ATAF,6,17.1

@@ -1,0 +1,6 @@
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,cboModified,CountLine,CountOutput,cbo,methodsInvokedQty,rfc,CountLineCode,CountLineCodeExe,CountLineCodeDecl,CountLineComment,fanout,fanin,SumCyclomatic
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,cboModified,CountLine,CountOutput,cbo,rfc,CountLineCode,methodsInvokedQty,CountLineCodeExe,CountLineCodeDecl,CountLineComment,fanout,fanin,SumCyclomatic
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,CountLine,cboModified,CountOutput,cbo,methodsInvokedQty,rfc,CountLineCode,CountLineCodeExe,CountLineCodeDecl,fanout,fanin,CountLineComment,SumCyclomatic
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,cboModified,CountLine,cbo,CountOutput,rfc,methodsInvokedQty,CountLineCode,CountLineCodeExe,CountLineCodeDecl,fanout,CountLineComment,SumCyclomatic,fanin
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,cboModified,CountLine,cbo,CountOutput,rfc,methodsInvokedQty,CountLineCode,CountLineCodeExe,CountLineCodeDecl,fanout,fanin,CountLineComment,SumCyclomatic
+commons-csv,line,FRCH,ATAF,uniqueWordsQty,BOM,CountInput,stringLiteralsQty,cboModified,CountLine,CountOutput,cbo,methodsInvokedQty,CountLineCode,rfc,CountLineCodeExe,fanout,CountLineCodeDecl,CountLineComment,fanin,SumCyclomatic

@@ -1,0 +1,2 @@
+commons-csv,ATAF,FRCH,CountInput,CountOutput,line,CountLineCode,CountLine,CountLineCodeExe,CountLineCodeDecl,fanout,cboModified,uniqueWordsQty,CountLineComment,parametersQty,SumCyclomatic,CountLineBlank,rfc,methodsInvokedQty,cbo,BOM
+commons-csv,FRCH,ATAF,CountInput,CountOutput,line,CountLineCode,CountLineCodeExe,CountLine,CountLineCodeDecl,fanout,uniqueWordsQty,cboModified,parametersQty,CountLineComment,SumCyclomatic,CountLineBlank,rfc,methodsInvokedQty,cbo,BOM

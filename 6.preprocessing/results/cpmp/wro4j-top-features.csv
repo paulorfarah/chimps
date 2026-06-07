@@ -1,0 +1,2 @@
+wro4j,ATAF,FRCH,CountInput,CountOutput,CountLine,BOM,line,CountLineCode,CountLineCodeExe,uniqueWordsQty,CountStmtExe,CountStmt,CountSemicolon,CountLineCodeDecl,SumCyclomatic,cbo,methodsInvokedQty,rfc,CountLineBlank,CountLineComment
+wro4j,ATAF,FRCH,CountInput,CountOutput,CountLine,CountLineCodeExe,BOM,line,CountLineCode,uniqueWordsQty,CountStmtExe,CountSemicolon,CountStmt,CountLineCodeDecl,methodsInvokedQty,rfc,SumCyclomatic,cbo,CountLineBlank,CountLineComment

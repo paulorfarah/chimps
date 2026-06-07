@@ -1,0 +1,6 @@
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,cbo,modifiers,CountLine,fanin,cboModified,returnsQty,CountLineComment,rfc,methodsInvokedQty,CountOutput,CountLineCodeDecl,CountLineCode,SumCyclomatic,CountStmt,CountSemicolon
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,modifiers,cbo,CountLine,cboModified,fanin,returnsQty,rfc,CountLineComment,methodsInvokedQty,CountOutput,CountLineCodeDecl,CountLineCode,SumCyclomatic,CountLineCodeExe,assignmentsQty
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,modifiers,cbo,CountLine,fanin,cboModified,returnsQty,CountLineComment,methodsInvokedQty,CountOutput,SumCyclomatic,CountLineCodeDecl,rfc,CountLineCode,CountStmt,CountLineCodeExe
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,modifiers,cbo,CountLine,fanin,cboModified,CountLineComment,returnsQty,methodsInvokedQty,rfc,CountLineCodeDecl,CountOutput,SumCyclomatic,CountLineCode,fanout,CountLineCodeExe
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,modifiers,cbo,CountLine,cboModified,fanin,returnsQty,CountLineComment,methodsInvokedQty,rfc,CountOutput,CountLineCodeDecl,SumCyclomatic,CountLineCode,assignmentsQty,CountSemicolon
+jgit,BOM,line,CountInput,uniqueWordsQty,hasJavaDoc,modifiers,cbo,CountLine,fanin,cboModified,CountLineComment,returnsQty,methodsInvokedQty,CountOutput,rfc,SumCyclomatic,CountLineCodeDecl,CountLineCode,CountSemicolon,assignmentsQty

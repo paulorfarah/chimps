@@ -1,0 +1,8 @@
+metric,count,percent
+ATAF,2,25.0
+anonymousClassesQty,1,12.5
+parenthesizedExpsQty,1,12.5
+CountLineBlank,1,12.5
+FRCH,1,12.5
+maxNestedBlocksQty,1,12.5
+parametersQty,1,12.5

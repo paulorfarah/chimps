@@ -1,0 +1,6 @@
+easymock,line,uniqueWordsQty,CountInput,fanin,cbo,cboModified,returnsQty,CountOutput,CountLine,stringLiteralsQty,numbersQty,BOM,methodsInvokedQty,rfc,CountLineCodeDecl,CountLineCode,fanout,assignmentsQty,CountStmtExe,modifiers
+easymock,line,uniqueWordsQty,CountInput,cbo,fanin,cboModified,returnsQty,CountOutput,stringLiteralsQty,CountLine,methodsInvokedQty,numbersQty,rfc,BOM,CountLineCode,CountLineCodeDecl,fanout,assignmentsQty,CountStmtExe,loc
+easymock,line,uniqueWordsQty,CountInput,cbo,fanin,cboModified,returnsQty,CountOutput,CountLine,stringLiteralsQty,CountLineCode,numbersQty,BOM,methodsInvokedQty,rfc,CountLineCodeDecl,fanout,assignmentsQty,CountStmtExe,CountStmt
+easymock,line,uniqueWordsQty,CountInput,fanin,cbo,cboModified,returnsQty,CountOutput,CountLine,stringLiteralsQty,numbersQty,CountLineCode,rfc,methodsInvokedQty,BOM,CountLineCodeDecl,fanout,assignmentsQty,CountStmtExe,CountLineCodeExe
+easymock,line,uniqueWordsQty,CountInput,fanin,cbo,cboModified,returnsQty,CountOutput,stringLiteralsQty,CountLine,numbersQty,BOM,CountLineCodeDecl,methodsInvokedQty,rfc,CountLineCode,fanout,assignmentsQty,CountStmtExe,loc
+easymock,line,uniqueWordsQty,CountInput,cbo,fanin,cboModified,returnsQty,CountOutput,CountLine,stringLiteralsQty,numbersQty,CountLineCode,rfc,BOM,methodsInvokedQty,CountLineCodeDecl,fanout,assignmentsQty,CountStmtExe,CountStmt
